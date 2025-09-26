@@ -1,4 +1,4 @@
 {
-  "version": "1.0.0-alpha",
-  "changelog": "🔧 *Changelog v1.0.0-alpha*\n\n✅ Fixed:antidelete and YouTube Downloader commands `.play` & `.song`\n➕ Added: `.update` command, plugin counter, and total command counter\n🛠 Improved: System info response (faster & cleaner)\n🚀 Enhanced: Auto-update detection mechanism\n\n📝 Update recommended for best experience!"
+  "version": "1.6.0",
+  "changelog": "🔧 *Changelog v1.6*\n\n✅ Fully Fixed: `.play` & `.song` commands\n➕ Added: Economy menu\n🛠 Improved: System info response (faster & cleaner)\n🚀 Enhanced: Auto-update detection mechanism (more reliable)\n\n📝 Update recommended for best performance!"
 }
